@@ -1,0 +1,2 @@
+# Store sources byte for byte (CRLF, as Visual Studio writes them).
+* -text

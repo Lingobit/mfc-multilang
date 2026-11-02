@@ -1,0 +1,9 @@
+Output/
+.vs/
+*.user
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
