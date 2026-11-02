@@ -1,6 +1,6 @@
 # Multilingual Library for MFC
 
-[![Build](../../actions/workflows/build.yml/badge.svg)](../../actions/workflows/build.yml)
+[![Build](https://github.com/Lingobit/mfc-multilang/actions/workflows/build.yml/badge.svg)](https://github.com/Lingobit/mfc-multilang/actions/workflows/build.yml)
 
 A small MFC extension DLL that lets one MFC application switch between user-interface languages. The translated dialogs, menus and strings live in resource-only DLLs, one for each language, next to the application. The library finds them, picks the Windows display language by default, adds a Language menu, remembers the user's choice, and loads the same language for your MFC extension DLLs.
 
